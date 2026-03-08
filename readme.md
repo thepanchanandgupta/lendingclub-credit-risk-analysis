@@ -104,14 +104,14 @@ Loan applications increased significantly between **2007 and 2018**, reflecting 
 
 ### Portfolio Analytics Dashboard
 
-![Dashboard Overview](images/dashboard_main.png)
+![Dashboard Overview](images/dashboard.png)
 
 The dashboard summarizes portfolio performance and borrower risk characteristics through interactive visualizations.
 
 
 ### Loan Applications Over Time
 
-![Loan Applications Trend](images/loan_applications_over_time.png)
+![Loan Applications Trend](images/loan_applications_overTime.png)
 
 This chart highlights the rapid growth of the LendingClub platform over time.
 
