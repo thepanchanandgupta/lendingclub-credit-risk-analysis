@@ -111,7 +111,7 @@ The dashboard summarizes portfolio performance and borrower risk characteristics
 
 ### Loan Applications Over Time
 
-![Loan Applications Trend](images/loan_applications_overTime.png)
+![Loan Applications Trend](images/loan_application_overTime.png)
 
 This chart highlights the rapid growth of the LendingClub platform over time.
 
