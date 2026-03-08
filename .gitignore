@@ -1,0 +1,5 @@
+*.pbix
+loan.csv
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
