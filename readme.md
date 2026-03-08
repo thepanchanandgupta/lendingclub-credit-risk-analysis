@@ -195,7 +195,7 @@ This project demonstrates:
 # Author
 
 **Panchanand Gupta**
-PGDM Candidate — Business Analytics
+PGDM Student — GLIM-Gurgaon
 
 ---
 
