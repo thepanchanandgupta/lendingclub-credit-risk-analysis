@@ -198,5 +198,3 @@ This project demonstrates:
 PGDM Student — GLIM-Gurgaon
 
 ---
-
-If you want, I can also help you **write the resume bullet points for this project so it looks strong for analytics internship applications (especially for firms like Affine, Fractal, MuSigma, etc.)**.
